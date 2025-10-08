@@ -1,6 +1,7 @@
 <h1 align="center">Note Identifier</h1>
 
 A 2025 School Project to create an AI to detect Notes played in an audio stream using [hugging face](https://huggingface.co/) models.
+This project allows you to use an Arduino Mega to 
 
 ## Installation.
 ```bash
@@ -11,11 +12,11 @@ pip install pyserial
 ```
 
 ## Resources used
-- Hugging Face Model
-- Google Teachable Machine
-- Arduino Mega
-- Python
-- - pyserial
+-    Hugging Face Model
+-    Google Teachable Machine
+-    Arduino Mega
+-    Python
+    *    pyserial
 
 
 ## Members

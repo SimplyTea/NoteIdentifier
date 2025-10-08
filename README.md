@@ -11,10 +11,11 @@ pip install pyserial
 ```
 
 ## Resources used
--Hugging Face Model
--Google Teachable Machine
--Arduino Mega
--Python (and the package pyserial)
+- Hugging Face Model
+- Google Teachable Machine
+- Arduino Mega
+- Python
+- - pyserial
 
 
 ## Members

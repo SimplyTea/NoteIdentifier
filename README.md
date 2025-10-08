@@ -15,7 +15,7 @@ pip install pyserial
 - Google Teachable Machine
 - Arduino Mega
 - Python
--- pyserial
+- - pyserial
 
 
 ## Members

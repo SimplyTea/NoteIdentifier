@@ -1,4 +1,4 @@
-<h1 align="center">mNote Identifier</h1>
+<h1 align="center">Note Identifier</h1>
 
 A 2025 School Project to create an AI to detect Notes played in an audio stream using [hugging face](https://huggingface.co/) models.
 

@@ -14,8 +14,7 @@ pip install pyserial
 -Hugging Face Model
 -Google Teachable Machine
 -Arduino Mega
--Python
- - pyserial
+-Python (and the package pyserial)
 
 
 ## Members

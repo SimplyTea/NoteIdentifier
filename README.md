@@ -7,7 +7,7 @@ A 2025 School Project to create an AI to detect Notes played in an audio stream 
 git clone https://github.com/SimplyTea/NoteIdentifier.git
 ```
 ```bash
-pip install pyserial
+pip install pyserial, sounddevice
 ```
 
 ## Resources used
@@ -16,13 +16,14 @@ pip install pyserial
 -    Arduino Mega
 -    Python
 -    - pyserial
+-    - sounddevice
 
 ## Members
 - [Me](https://github.com/SimplyTea)
 - Adian
 - Jacob
 - Jon
-- Kenzo
+- [Kenzo](https://github.com/kenzoshin)
 
 ## Documentation
 None currently, the project has just started. And the group has barely communicated at all.

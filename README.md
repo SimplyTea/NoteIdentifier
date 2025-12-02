@@ -1,6 +1,6 @@
 <h1 align="center">Note Identifier</h1>
 
-A 2025 School Project to create an AI to detect Notes played in an audio stream using [hugging face](https://huggingface.co/) models in Python.
+A 2025 School Project to create an AI to detect Notes/Sound played in an audio stream using [skey](https://github.com/deezer/skey) and Google Teachable Machine in Python.
 
 ## Installation.
 ```bash

@@ -42,9 +42,6 @@ pip install git+https://github.com/deezer/skey.git
 ## Documentation
 Plug your microphone into the port and set it to the port used in the code. It will output the microphone's volume levels.
 
->[!NOTE]
-> After this group project is done, this repository will be archived.
-> You may freely edit the code under the rules stated in the LICENSE.
-
 >[!WARNING]
 > This project has now been archived as of Dec 2nd, 2025, 14:19:13 CST.
+> You may freely use the project under the LICENSE. Happy coding!

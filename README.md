@@ -7,12 +7,12 @@ A 2025 School Project to create an AI to detect Notes played in an audio stream 
 git clone https://github.com/SimplyTea/NoteIdentifier.git
 ```
 
-#CLI Verify dependency downloads with pip
+CLI Verify dependency downloads with pip
 ```bash
 pip install pyserial pyaudio git+https://github.com/deezer/skey.git
 ```
 
-#Or install individually,
+Or install individually,
 ```bash
 pip install pyserial
 ```

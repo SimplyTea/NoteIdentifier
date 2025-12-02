@@ -33,11 +33,11 @@ pip install git+https://github.com/deezer/skey.git
 -    - skey [mpmath, typing-extensions, sympy, setuptools, pycparser, numpy, networkx, MarkupSafe, fsspec, filelock, einops, colorama, tqdm, scipy, jinja2, cffi, torch, soundfile, torchaudio, nnAudio]
 
 ## Members
-- [Me](https://github.com/SimplyTea)
-- Adian
-- Jacob
-- Jon
-- [Kenzo](https://github.com/kenzoshin)
+- [Me](https://github.com/SimplyTea) Research, Hardware.
+- Adian Hardware.
+- Jacob Software (AI)
+- Jon Software
+- [Kenzo](https://github.com/kenzoshin) Software
 
 ## Documentation
 Plug your microphone into the port and set it to the port used in the code. It will output the microphone's volume levels.

@@ -47,8 +47,3 @@ If you have an error based on microphone input, change the RATE, FORMAT, and CHA
 
 Below is an image of the pin layout needed for the software. This is the same one as shown in the video, just with different colors for ease.
 ![f73e5390-e2d6-4315-9534-8da1cb6c2630](https://github.com/user-attachments/assets/e76b029a-5981-4e3b-8fb0-73a83ab1bf58)
-
-
->[!WARNING]
-> This project has now been archived as of Dec 2nd, 2025, 14:19:13 CST.
-> You may freely use the project under the LICENSE. Happy coding!

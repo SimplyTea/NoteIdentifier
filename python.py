@@ -37,8 +37,8 @@ p = pyaudio.PyAudio()
 print("\nAvailable audio input devices:")
 for i in range(p.get_device_count()):
     dev = p.get_device_info_by_index(i)
-if dev["maxInputChannels"] > 0:
-    print(f" [{i}] {dev['name']}")
+    if dev["maxInputChannels"] > 0:
+        print(f" [{i}] {dev['name']}")
 
 try:
     device_index = int(input("\nEnter the device index to use: "))

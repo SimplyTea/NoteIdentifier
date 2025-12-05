@@ -42,6 +42,12 @@ pip install git+https://github.com/deezer/skey.git
 ## Documentation
 Plug your microphone into the port and set it to the port used in the code. It will output the microphone's volume levels.
 
+If you experience an error based on the Serial Port, please read the code comments above it. MacOS and Linux will have something like dev/usbmodem, while Windows will have COM3 or such.
+If you have an error based on microphone input, change the RATE, FORMAT, and CHANNEL to match it. You will rarely need to change the CHUNK, but it exists there anyway. I would have made the program do it automatically, but minor adjustments and optimizations for a project that was more of a proof of concept are unnecessary. 
+
+Follow the image in the ![f73e5390-e2d6-4315-9534-8da1cb6c2630](https://github.com/user-attachments/assets/e76b029a-5981-4e3b-8fb0-73a83ab1bf58)
+
+
 >[!WARNING]
 > This project has now been archived as of Dec 2nd, 2025, 14:19:13 CST.
 > You may freely use the project under the LICENSE. Happy coding!

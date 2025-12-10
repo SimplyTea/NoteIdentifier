@@ -1,6 +1,6 @@
 <h1 align="center">Note Identifier</h1>
 
-A 2025 School Project to create an AI to detect Notes/Sound played in an audio stream using [skey](https://github.com/deezer/skey) and Google Teachable Machine in Python.
+A 2025 School Project to create an AI to detect Notes/Sound played in an audio stream using [skey](https://github.com/deezer/skey)in Python.
 
 ## Installation.
 ```bash
@@ -25,7 +25,6 @@ pip install git+https://github.com/deezer/skey.git
 
 
 ## Resources used
--    Google Teachable Machine
 -    Arduino Mega
 -    Python
 -    - pyserial
